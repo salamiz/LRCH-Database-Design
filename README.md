@@ -55,7 +55,4 @@ With dedication, we aim to swiftly empower LRCH with an efficient database solut
 
 This mission statement serves LRCH's leadership, medical staff, and stakeholders, pledging to benefit all organizational groups. It bridges the gap between traditional systems and the future of healthcare, supported by a well-thought-out plan. Our project uniquely aligns with LRCH's operations, providing immeasurable value by enhancing efficiency and patient care.
 
-## Project Deliverables
 
-### Functional & Non-functional Requirements
-Detailed infrmation can be found in the word document
