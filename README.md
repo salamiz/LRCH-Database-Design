@@ -1,21 +1,5 @@
 # Lake Ridge Community Hospital Database Design
 
-## Table of Contents
-- [Case Overview](#case-overview)
-- [Project Requirements](#project-requirements)
-- [Specific Tasks and Challenges](#specific-tasks-and-challenges)
-- [Formal Introduction to Database Design](#formal-introduction-to-database-design)
-  - [Introduction](#introduction)
-  - [Mission Statement](#mission-statement)
-- [Project Deliverables](#project-deliverables)
-  - [Functional & Non-functional Requirements](#functional--non-functional-requirements)
-  - [Contextual and Level 1 Data-Flow Diagrams](#contextual-and-level-1-data-flow-diagrams)
-  - [3NF Normalized Relational Schema](#3nf-normalized-relational-schema)
-  - [Entity Relationship Diagram](#entity-relationship-diagram)
-  - [Data Dictionary](#data-dictionary)
-  - [SQL CREATE Scripts](#sql-create-scripts)
-  - [SQL INSERT Scripts with Example Data](#sql-insert-scripts-with-example-data)
-  - [SQL SELECT – Examples of Data Usage](#sql-select--examples-of-data-usage)
 
 ---
 
